@@ -68,6 +68,29 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 
 10. `sudo command`: Sử dụng sudo để chạy câu lệnh với đặt quyền superuser
 
+11. `sudo apt-get update`: Cap nhap kho ung dung
+## Install Important Apps
+1. Cài Google Chrome
+> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+> sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+2. Cài Ibus Bamboo - gõ tiếng Việt
+-> sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo
+-> sudo apt-get update 
+->sudo apt-get install ibus-bamboo
+->ibus restart
+->gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('ibus', 'Bamboo')]"
+3. Tweaks - Tinh chỉnh hệ thống
+> sudo apt install software-properties-common
+
+> sudo add-apt-repository ppa:philip.scott/elementary-tweaks
+
+> sudo apt update
+
+> sudo apt install elementary-tweaks
+
+> reboot
+
 ## About Author
 * [Phạm Hoàng Sang](https://www.facebook.com/HoangSang17TH/) - VKU
 * Email: Phsang49@gmail.com
