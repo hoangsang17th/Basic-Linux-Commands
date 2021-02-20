@@ -74,12 +74,18 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 > sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+
 2. Cài Ibus Bamboo - gõ tiếng Việt
--> sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo
--> sudo apt-get update 
-->sudo apt-get install ibus-bamboo
-->ibus restart
-->gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('ibus', 'Bamboo')]"
+> sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo
+
+> sudo apt-get update 
+
+> sudo apt-get install ibus-bamboo
+
+> ibus restart
+
+> gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('ibus', 'Bamboo')]"
+
 3. Tweaks - Tinh chỉnh hệ thống
 > sudo apt install software-properties-common
 
@@ -90,6 +96,16 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 > sudo apt install elementary-tweaks
 
 > reboot
+
+System Settings --> Tweaks --> Appearance --> Layout
+
+> sudo add-apt-repository ppa:noobslab/macbuntu
+
+> sudo apt-get update
+
+> sudo apt-get install macbuntu-os-icons-v1804
+
+> sudo apt-get install macbuntu-os-ithemes-v1804
 
 ## About Author
 * [Phạm Hoàng Sang](https://www.facebook.com/HoangSang17TH/) - VKU
