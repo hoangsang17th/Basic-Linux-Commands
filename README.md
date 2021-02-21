@@ -69,7 +69,9 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 10. `sudo command`: Sử dụng sudo để chạy câu lệnh với đặt quyền superuser
 
 11. `sudo apt-get update`: Cap nhap kho ung dung
+
 ## Install Important Apps
+
 1. Cài Google Chrome - [Hoặc](https://itsfoss.com/install-chrome-ubuntu/)
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
@@ -84,7 +86,7 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 
 > ibus restart
 
-Cài Ibus Bamboo trở thành phương thức nhập mặc định
+*Cài Ibus Bamboo trở thành phương thức nhập mặc định*
 
 > gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('ibus', 'Bamboo')]"
 
@@ -117,6 +119,24 @@ System Settings --> Tweaks --> Appearance --> Layout
 5. WPS Office - [Tải tại đây](https://linux.wps.com/) 
 > sudo dpkg -i wps-office_11.1.0.10.161.XA_amd64.deb
 
+6. Android Studio - [Xem thêm](https://developer.android.com/studio/install)
+
+*Cài đặt Java JDK*
+
+> sudo apt install openjdk-11-jdk
+
+*Thêm kho lưu trữ android-studio*
+
+> sudo add-apt-repository ppa:maarten-fonville/android-studio
+
+> sudo apt update
+
+> sudo apt install android-studio
+
+7. Teamview - [Xem thêm](https://community.teamviewer.com/English/kb/articles/45-how-to-install-teamviewer-on-ubuntu)
+> wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+
+> sudo apt install ./teamviewer_amd64.deb
 
 ## About Author
 * [Phạm Hoàng Sang](https://www.facebook.com/HoangSang17TH/) - VKU
