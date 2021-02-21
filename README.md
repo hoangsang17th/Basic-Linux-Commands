@@ -70,12 +70,12 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 
 11. `sudo apt-get update`: Cap nhap kho ung dung
 ## Install Important Apps
-1. Cài Google Chrome
+1. Cài Google Chrome - [Hoặc](https://itsfoss.com/install-chrome-ubuntu/)
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 > sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
 
-2. Cài Ibus Bamboo - gõ tiếng Việt
+2. Cài Ibus Bamboo - [Xem thêm](https://github.com/BambooEngine/ibus-bamboo)
 > sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo
 
 > sudo apt-get update 
@@ -83,6 +83,8 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 > sudo apt-get install ibus-bamboo
 
 > ibus restart
+
+Cài Ibus Bamboo trở thành phương thức nhập mặc định
 
 > gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('ibus', 'Bamboo')]"
 
@@ -106,6 +108,15 @@ System Settings --> Tweaks --> Appearance --> Layout
 > sudo apt-get install macbuntu-os-icons-v1804
 
 > sudo apt-get install macbuntu-os-ithemes-v1804
+
+[Xem thêm](https://www.noobslab.com/p/themes-icons.html)
+
+4. Git - [Xem thêm](https://git-scm.com/download/linux)
+> sudo apt-get install git
+
+5. WPS Office - [Tải tại đây](https://linux.wps.com/) 
+> sudo dpkg -i wps-office_11.1.0.10.161.XA_amd64.deb
+
 
 ## About Author
 * [Phạm Hoàng Sang](https://www.facebook.com/HoangSang17TH/) - VKU
