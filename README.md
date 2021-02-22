@@ -138,8 +138,17 @@ System Settings --> Tweaks --> Appearance --> Layout
 
 > sudo apt install ./teamviewer_amd64.deb
 
+8. OBS - [Xem thêm](https://obsproject.com/wiki/install-instructions#linux)
+> sudo apt install ffmpeg
+
+> sudo add-apt-repository ppa:obsproject/obs-studio
+
+> sudo apt update 
+
+> sudo apt install obs-studio
+
 ## About Author
-* [Phạm Hoàng Sang](https://www.facebook.com/HoangSang17TH/) - VKU
-* Email: Phsang49@gmail.com
-* [Youtube](https://www.youtube.com/channel/UCFovmhE6wmj-6doJKKURaiA)
-* Author support: MB Bank 5050148454917
+* [Phạm Hoàng Sang](https://www.facebook.com/hoangsang17th) - VKU
+* Email: [phsang49@gmail.com](mailto: phsang49@gmail.com) - [hoangsang17th@gmail.com](mailto: hoangsang17th@gmail.com)
+* Youtube: [Hoàng Sang SICT](https://www.youtube.com/channel/UCFovmhE6wmj-6doJKKURaiA)
+* Tặng tôi một ly cafe: Ngân hàng quân đội Việt Nam - MB Bank, số tài khoảng 5050148454917
