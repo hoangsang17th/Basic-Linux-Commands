@@ -90,6 +90,12 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 
 > gsettings set org.gnome.desktop.input-sources sources "[('xkb', 'us'), ('ibus', 'Bamboo')]"
 
+Vào mục Ứng dụng → System settings → Applications → Startup → Add startup app…
+
+Gõ lệnh sau vào mục custom command:
+
+> ibus-daemon -drx
+
 3. Tweaks - Tinh chỉnh hệ thống
 > sudo apt install software-properties-common
 
