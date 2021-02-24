@@ -97,7 +97,6 @@ Gõ lệnh sau vào mục custom command:
 > ibus-daemon -drx
 
 3. Tweaks - Tinh chỉnh hệ thống
-> sudo apt install software-properties-common
 
 > sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 
