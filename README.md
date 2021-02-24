@@ -147,6 +147,12 @@ System Settings --> Tweaks --> Appearance --> Layout
 
 > sudo apt install obs-studio
 
+## Fix Error
+1. Fix add-apt-repository: command not found error
+> sudo apt-get install software-properties-common
+
+> sudo apt-get update
+
 ## About Author
 * [Phạm Hoàng Sang](https://www.facebook.com/hoangsang17th) - VKU
 * Email: phsang49@gmail.com- hoangsang17th@gmail.com
