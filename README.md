@@ -116,6 +116,7 @@ System Settings --> Tweaks --> Appearance --> Layout
 
 > sudo apt-get install macbuntu-os-ithemes-v1804
 
+Chọn MacBuntu-Sierra-light-soild-thin
 [Xem thêm](https://www.noobslab.com/p/themes-icons.html)
 
 4. Git - [Xem thêm](https://git-scm.com/download/linux)
