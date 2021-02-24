@@ -159,6 +159,11 @@ Chọn MacBuntu-Sierra-light-soild-thin
 
 > sudo apt-get update
 
+2. Android Studio: /dev/kvm device permission denied
+> sudo apt install qemu-kvm
+
+> sudo adduser $USER kvm
+
 ## About Author
 * [Phạm Hoàng Sang](https://www.facebook.com/hoangsang17th) - VKU
 * Email: phsang49@gmail.com- hoangsang17th@gmail.com
