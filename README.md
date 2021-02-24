@@ -139,6 +139,10 @@ Chọn MacBuntu-Sierra-light-soild-thin
 
 > sudo apt install android-studio
 
+* Cài đặt một số thư viện 32 bit cho máy 64 bit*
+
+> sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+
 7. Teamview - [Xem thêm](https://community.teamviewer.com/English/kb/articles/45-how-to-install-teamviewer-on-ubuntu)
 > wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
