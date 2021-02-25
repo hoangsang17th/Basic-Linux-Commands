@@ -160,6 +160,13 @@ Chọn MacBuntu-Sierra-light-soild-thin
 9. GParted - Trình quản lý phân vùng - [Xem thêm](https://itsfoss.com/format-usb-drive-sd-card-ubuntu)
 > sudo apt-get install gparted
 
+10. GRUB Themes - [Xem thêm](https://www.gnome-look.org/browse/cat/109/order/latest/)
+[Tải tại đây](https://drive.google.com/drive/folders/1Eq3jCY2Yi4aQS8ihq7RESG2AHddKrgS8?usp=sharing)
+
+> cd 17theme
+
+> sudo ./install.sh
+ 
 ## Fix Error
 1. Fix add-apt-repository: command not found error
 > sudo apt-get install software-properties-common
