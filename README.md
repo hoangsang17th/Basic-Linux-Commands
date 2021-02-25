@@ -166,7 +166,12 @@ Chọn MacBuntu-Sierra-light-soild-thin
 > cd 17theme
 
 > sudo ./install.sh
- 
+
+11. Lampp - [Tải tại đây](https://www.apachefriends.org/xampp-files/8.0.2/xampp-linux-x64-8.0.2-0-installer.run)
+> chmod 755 xampp-linux-x64-8.0.2-0-installer.run
+
+> sudo ./xampp-linux-x64-8.0.2-0-installer.run
+
 ## Fix Error
 1. Fix add-apt-repository: command not found error
 > sudo apt-get install software-properties-common
