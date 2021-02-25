@@ -172,6 +172,12 @@ Chọn MacBuntu-Sierra-light-soild-thin
 
 > sudo ./xampp-linux-x64-8.0.2-0-installer.run
 
+Khởi chạy Lampp
+
+> sudo /opt/lampp/lampp start
+
+Tắt Lampp
+> sudo /opt/lampp/lampp stop
 ## Fix Error
 1. Fix add-apt-repository: command not found error
 > sudo apt-get install software-properties-common
