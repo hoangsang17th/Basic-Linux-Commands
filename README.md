@@ -157,6 +157,9 @@ Chọn MacBuntu-Sierra-light-soild-thin
 
 > sudo apt install obs-studio
 
+9. GParted - Trình quản lý phân vùng - [Xem thêm](https://itsfoss.com/format-usb-drive-sd-card-ubuntu)
+> sudo apt-get install gparted
+
 ## Fix Error
 1. Fix add-apt-repository: command not found error
 > sudo apt-get install software-properties-common
