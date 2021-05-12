@@ -12,6 +12,12 @@ Các câu lệnh cơ bản trong linux giúp bạn tiết kiệm thời gian hơ
 
 1.3. `ls -a`: Liệt kê các tệp được ẩn bởi hệ thống
 
+1.4. `pwd`: Hiển thị đường dẫn của vị trí hiện tại
+
+1.5. `less filename`: Xem file trực tiếp trên command
+
+1.6. `file filename`: Xác định loại dữ liệu mà tệp chứa
+
 2. Thay đổi đường dẫn thư mục làm việc
 
 2.1. `cd -`: Chuyển về thư mục trước nơi bạn làm việc trước đó.
